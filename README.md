@@ -1,12 +1,11 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">Hello, I'm Will-qwen I do open source!</p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
+I am a passionate front-end developer from China！ ！ ！
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 FrontEnd Engineer at [JavaScript]([http://razorpay.com/](https://github.com/topics/javascript))
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
