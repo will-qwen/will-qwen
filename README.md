@@ -5,7 +5,7 @@
 I am a passionate front-end developer from China！ ！ ！
 **About me**
 
-- 💼 FrontEnd Engineer at [JavaScript]([http://razorpay.com/](https://github.com/topics/javascript))
+- 💼 FrontEnd Engineer at [JavaScript]([https://github.com/topics/javascript])
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
